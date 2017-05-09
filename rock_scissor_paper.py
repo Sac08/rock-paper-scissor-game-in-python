@@ -1,5 +1,5 @@
-#from coursera:Interactive Programming In Python;Rice University
-CODE==>
+
+#CODE==>
 # Rock-paper-scissors-lizard-Spock template
 
 
